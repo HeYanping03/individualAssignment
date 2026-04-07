@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" xml:lang="zh-CN" prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<meta name="generator" content="Adobe InDesign 20.5" />
+		<meta name="cover" content="x1.png" />
+		<meta property="ibooks:specified-fonts">true</meta>
+		<dc:title>Page3</dc:title>
+		<dc:date>2026-03-30T09:35:36Z</dc:date>
+		<dc:language>zh-CN</dc:language>
+		<meta property="dcterms:modified">2026-03-30T09:35:36Z</meta>
+		<dc:identifier id="bookid">urn:uuid:c3c20000-f95c-40b2-bcb0-d8a3d9adf29d</dc:identifier>
+		<!--fixed-layout options-->
+		<meta property="rendition:layout">pre-paginated</meta>
+		<meta property="rendition:orientation">landscape</meta>
+		<meta property="rendition:spread">none</meta>
+		<!--accessibility options-->
+	</metadata>
+	<manifest>
+		<item id="Page3-1" href="Page3-1.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav" />
+		<item id="idGeneratedStyles.css" href="css/idGeneratedStyles.css" media-type="text/css" />
+		<item id="AdobeSongStd-Light.otf" href="font/AdobeSongStd-Light.otf" media-type="application/vnd.ms-opentype" />
+		<item id="x1.png" href="image/1.png" media-type="image/png" properties="cover-image" />
+		<item id="x10.png" href="image/10.png" media-type="image/png" />
+		<item id="x11.png" href="image/11.png" media-type="image/png" />
+		<item id="x12.png" href="image/12.png" media-type="image/png" />
+		<item id="x2.png" href="image/2.png" media-type="image/png" />
+		<item id="x21.png" href="image/21.png" media-type="image/png" />
+		<item id="x23b559e12958112fb6b984c31899cc83.jpg" href="image/23b559e12958112fb6b984c31899cc83.jpg" media-type="image/jpeg" />
+		<item id="x3.png" href="image/3.png" media-type="image/png" />
+		<item id="x6.png" href="image/6.png" media-type="image/png" />
+		<item id="x9.png" href="image/9.png" media-type="image/png" />
+		<item id="屏幕截图_2026-03-30_162658.png" href="image/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE_2026-03-30_162658.png" media-type="image/png" />
+		<item id="空白.png" href="image/%E7%A9%BA%E7%99%BD.png" media-type="image/png" />
+		<item id="idGeneratedScript.js" href="script/idGeneratedScript.js" media-type="text/javascript" />
+	</manifest>
+	<spine>
+		<itemref idref="Page3-1" />
+	</spine>
+</package>
